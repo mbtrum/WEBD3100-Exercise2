@@ -1,0 +1,37 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+}
+
+#container {
+    max-width:800px;
+    margin: auto;
+}
+
+#header {
+    background-color:#cccccc;
+    color:#dddddd;
+    font-size:60px;
+    height: 80px;
+}
+
+#menu ul{
+    margin:0;
+    padding:0;
+}
+
+#menu li{
+    display:inline;
+}
+
+#footer {
+    margin-top:40px;
+}
+
+.red {
+    color:red;
+}
+
+.course_link {
+    text-decoration:none;
+    color:black;
+}
